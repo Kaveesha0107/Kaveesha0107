@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Kaveesha Muthunilmi and I'm an undergraduate software engineer passionate about coding, problem-solving, and learning. I'm pursuing a degree in Software Engineering at SLIIT.</h2>
+<h2 align="left">Hi 👋! My name is Kaveesha Muthunilmi 
+  <br>I’m an undergraduate Software Engineering student at SLIIT.</h2>
 
 ###
 
