@@ -50,8 +50,9 @@
 
 <br clear="both">
 
-### 🐍 GitHub Contribution Snake
+###  GitHub Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kaveesha0107/Kaveesha0107/output/snake.svg" alt="Snake animation" />
 </p>
+
