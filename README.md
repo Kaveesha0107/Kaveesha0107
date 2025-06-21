@@ -33,12 +33,11 @@
   <a href="https://www.youtube.com/@KaveeshaMuthunilmi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
   </a>
-  <a href="https://www.instagram.com/kaveesha.muthunilmi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="https://discord.com/users/yourdiscordid" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
-  </a>
+ <a href="https://www.facebook.com/kaveesha.muthunilmi" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook" />
+</a>
+
+
   <a href="mailto:kaveesha.muthunilmi@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
