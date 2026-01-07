@@ -8,13 +8,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Kaveesha0107&show_icons=true&theme=dracula&hide_border=true"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Kaveesha0107&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800"
     height="160"
     alt="GitHub Stats"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaveesha0107&layout=compact&theme=dracula&hide_border=true"
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaveesha0107&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800"
     height="160"
     alt="Top Languages"
   />
@@ -22,7 +22,7 @@
 
 ---
 
-<img align="right" height="160" 
+<img align="right" height="160"
 src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" />
 
 ## 💻 Tech Stack
@@ -66,7 +66,7 @@ src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" /
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img 
+  <img
     src="https://raw.githubusercontent.com/Kaveesha0107/Kaveesha0107/output/snake.svg"
     alt="GitHub Contribution Snake"
   />
