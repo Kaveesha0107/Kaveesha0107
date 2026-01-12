@@ -53,8 +53,7 @@ I'm a passionate **Software Engineering Student** at SLIIT with a love for build
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/ECLIPSE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
-## 📊 My Statistics
-
+📊 My Statistics
 <p align="center">
   <a href="https://github.com/Kaveesha0107">
     <img src="https://github-readme-stats.vercel.app/api?username=Kaveesha0107&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Kaveesha's GitHub Stats" height="180"/>
@@ -63,21 +62,17 @@ I'm a passionate **Software Engineering Student** at SLIIT with a love for build
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaveesha0107&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Most Used Languages" height="180"/>
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/Kaveesha0107">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaveesha0107&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats"/>
   </a>
 </p>
-
-## 🏆 GitHub Trophies
-
+🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/Kaveesha0107">
     <img src="https://github-profile-trophy.vercel.app/?username=Kaveesha0107&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
   </a>
 </p>
-
 ## 🤝 Connect With Me
 
 <div align="center">
