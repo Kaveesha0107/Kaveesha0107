@@ -6,12 +6,10 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineering Student** at SLIIT with a love for building innovative solutions and learning new technologies. I enjoy working on challenging projects that combine creativity with technical expertise.
+I'm a passionate **Software Engineering Undergraduate** at SLIIT with a love for building innovative solutions and learning new technologies. I enjoy working on challenging projects that combine creativity with technical expertise.
 
 - 🔭 I'm currently pursuing a BSc Honors in Information Technology specializing in software engineering
-- 🌱 I'm currently learning **Advanced React, Kotlin & Database Management**
 - 👯 I'm looking to collaborate on **Open Source Projects and Innovative Web Applications**
-- 💬 Ask me about **Java, C/C++, React, Web Development**
 - 📫 How to reach me: **kaveeshamuthunilmi@gmail.com**
 - ⚡ I love exploring new technologies and sharing knowledge with others!
 
@@ -53,7 +51,7 @@ I'm a passionate **Software Engineering Student** at SLIIT with a love for build
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/ECLIPSE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
-📊 My Statistics
+### 📊 My Statistics
 <p align="center">
   <a href="https://github.com/Kaveesha0107">
     <img src="https://github-readme-stats.vercel.app/api?username=Kaveesha0107&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Kaveesha's GitHub Stats" height="180"/>
@@ -67,22 +65,22 @@ I'm a passionate **Software Engineering Student** at SLIIT with a love for build
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaveesha0107&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats"/>
   </a>
 </p>
+
 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/Kaveesha0107">
     <img src="https://github-profile-trophy.vercel.app/?username=Kaveesha0107&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
   </a>
 </p>
-## 🤝 Connect With Me
-
+🤝 Connect With Me
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaveesha-muthunilmi)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@KaveeshaMuthunilmi)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kaveesha.muthunilmi)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaveesha0107)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaveesha.muthunilmi@gmail.com)
 
 </div>
+
 
 ---
 
@@ -90,6 +88,6 @@ I'm a passionate **Software Engineering Student** at SLIIT with a love for build
   
 ### 💙 Thanks for visiting my profile! Let's connect and build something amazing together!
   
-⭐ If you like my work, consider giving a star to my repositories!
+ If you like my work, consider giving a ⭐ to my repositories!
   
 </div>
